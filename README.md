@@ -6,5 +6,9 @@
     <p>
 </p>
 
-![echosoar's github stats](https://github-readme-stats.vercel.app/api?username=echosoar&theme=algolia&include_all_commits=true&count_private=true&line_height=20)
-![ecgisiarls language](https://github-readme-stats.vercel.app/api/top-langs/?username=echosoar&hide=javascript,html,css&layout=compact&langs_count=6&theme=algolia&line_height=62)
+<p>
+  <a href="https://github.com/bufgix">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=echosoar&theme=algolia&include_all_commits=true&count_private=true&line_height=20"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echosoar&hide=javascript,html,css&layout=compact&langs_count=6&theme=algolia&line_height=62"/>
+  </a>
+</p>
